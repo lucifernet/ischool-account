@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name_account">ischool account</string>    
+    <string name="ACCOUNT_LABEL">ischool Account</string>
+    
+    <!-- Loign Activity -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_hint_username">Input your ischool user id.</string>
+    <string name="login_hint_password">Input your password.</string>
+	<string name="login">Login</string>
+	<string name="error_empty">Can not be empty.</string>
+	<string name="error_login">User name or password incorrect.</string>
+	<string name="login_progress_title">Logining</string>
+	<string name="login_progress_message">Login now. Please wait a moment.</string>
+	<string name="login_dialog_title">Please select an account</string>	
+	<string name="login_progress_refresh_token">Exchanging access token .....</string>
+	<string name="login_progress_refresh_token_completed">Exchange access token completed.</string>	
+	<string name="login_error">Login failure.</string>
+	<string name="login_get_accessable">Getting accessible point.</string>
+	<string name="login_another_user">Login another account.</string>
+	<string name="login_switch_title">Switch account</string>
+	<string name="login_progress_start">Login start.</string>
+	<string name="login_progress_getting_info">Getting login information</string>
+	<string name="login_progress_parse">Parsing login information</string>
+	<string name="login_progress_login_greening">Connect to greening server</string>	
+	<string name="login_progress_get_accessables">Check connectable accesspoints.</string>
+	<string name="login_progress_exchange_token">Exchange google token to ischool token.</string>
+</resources>

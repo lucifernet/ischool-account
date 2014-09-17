@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name_account">ischool-account</string>    
+    <string name="ACCOUNT_LABEL">ischool Account</string>
+    
+    <!-- Loign Activity -->
+    <string name="title_activity_login">登入帳號</string>
+    <string name="login_hint_username">請輸入 ischool 帳號.</string>
+    <string name="login_hint_password">請輸入密碼.</string>
+	<string name="login">登入</string>
+	<string name="error_empty">不可空白.</string>
+	<string name="error_login">帳號或密碼錯誤.</string>
+	<string name="login_progress_title">登入中</string>
+	<string name="login_progress_message">登入中, 請稍候片刻......</string>
+	<string name="login_dialog_title">請選擇登入帳號</string>	
+	<string name="login_progress_refresh_token">取得登入授權中 .....</string>
+	<string name="login_progress_refresh_token_completed">取得登入授權完成.</string>
+	<string name="login_error">登入失敗.</string>
+	<string name="login_get_accessable">取得可存取學校.</string>
+	<string name="login_another_user">使用其它帳號登入.</string>
+	<string name="login_switch_title">切換帳號</string>
+	<string name="login_progress_start">開始登入</string>
+	<string name="login_progress_getting_info">取得使用者資訊</string>
+	<string name="login_progress_parse">解析登入資訊中</string>
+	<string name="login_progress_login_greening">連接 ischool 認證中心</string>	
+	<string name="login_progress_get_accessables">檢查可連接學校</string>
+	<string name="login_progress_exchange_token">認證轉換中.</string>
+</resources>
